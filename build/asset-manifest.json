@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c0c358d.css",
+    "main.js": "/static/js/main.f9c33c28.js",
+    "static/media/amanoffice.jpg": "/static/media/amanoffice.5774aae66188cb15ac33.jpg",
+    "static/media/blogImgFour.png": "/static/media/blogImgFour.bffb1e5549c054659ff6.png",
+    "static/media/workImgTwo.png": "/static/media/workImgTwo.273929746fdb4f5cbecb.png",
+    "static/media/workImgThree.png": "/static/media/workImgThree.5f0b3b254e3f7bbcd942.png",
+    "static/media/workImgFour.png": "/static/media/workImgFour.606464a7ba5a17dfb2d9.png",
+    "static/media/workImgSeven.png": "/static/media/workImgSeven.18d8d148a12d9ac0cd15.png",
+    "static/media/imgp2.jpg": "/static/media/imgp2.85deccce3f596c2a5bed.jpg",
+    "static/media/imgp1.png": "/static/media/imgp1.c84a71b914fe3ff8133b.png",
+    "static/media/blogImgOne.png": "/static/media/blogImgOne.239d2d5c19e1ccecf519.png",
+    "static/media/imgp8.jpg": "/static/media/imgp8.79c4de20ff2a1e477abb.jpg",
+    "static/media/blogImgSeven.png": "/static/media/blogImgSeven.d7ff05cc72c84971685b.png",
+    "static/media/imgp7.jpg": "/static/media/imgp7.601571eac97ed4f8c25e.jpg",
+    "static/media/blogImgEight.png": "/static/media/blogImgEight.cfda0448227b2bf2e277.png",
+    "static/media/blogImgSix.png": "/static/media/blogImgSix.24e85f64b3b2dc9ff830.png",
+    "static/media/workImgOne.png": "/static/media/workImgOne.547f05db72bdd82e5500.png",
+    "static/media/imgp3.jpg": "/static/media/imgp3.8ff1b411a68de6e73d72.jpg",
+    "static/media/blogImgTwo.png": "/static/media/blogImgTwo.4d5de85a15189e91ece2.png",
+    "static/media/workImgEight.png": "/static/media/workImgEight.6e5f73f2353e769d209d.png",
+    "static/media/imgp6.jpg": "/static/media/imgp6.26b8a54df1b53d77527b.jpg",
+    "static/media/imgp5.jpg": "/static/media/imgp5.1d721f62d5882d51e037.jpg",
+    "static/media/workImgFive.png": "/static/media/workImgFive.665ba528efa435d8a4fc.png",
+    "static/media/blogImgThree.png": "/static/media/blogImgThree.bad65a712695981a0caf.png",
+    "static/media/imgp9.jpg": "/static/media/imgp9.6da177c16b3aa666847b.jpg",
+    "static/media/Aman Singh Bisht.pdf": "/static/media/Aman Singh Bisht.51678b39e51893c927f4.pdf",
+    "static/media/blogImgFive.png": "/static/media/blogImgFive.5d8ee7afceb857383d03.png",
+    "static/media/imgp4.jpg": "/static/media/imgp4.361442dc884d966ba821.jpg",
+    "static/media/workImgSix.png": "/static/media/workImgSix.5dc0f264110f0aea3edc.png",
+    "index.html": "/index.html",
+    "main.1c0c358d.css.map": "/static/css/main.1c0c358d.css.map",
+    "main.f9c33c28.js.map": "/static/js/main.f9c33c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c0c358d.css",
+    "static/js/main.f9c33c28.js"
+  ]
+}
