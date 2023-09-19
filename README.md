@@ -1,3 +1,6 @@
+# Preview
+<img width="937" alt="amanportfolio" src="https://github.com/amansinghbisht029/bisht-portfolio/assets/83057532/679dc46e-b4c5-4926-ab68-9ac4fa762ecf">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
