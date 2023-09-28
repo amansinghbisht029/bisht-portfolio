@@ -7,6 +7,7 @@ import workImgFive from "./work/workImgFive.png"
 import workImgSix from "./work/workImgSix.png"
 import workImgSeven from "./work/workImgSeven.png"
 import workImgEight from "./work/workImgEight.png"
+import workImgNine from "./work/workImgNine.png"
 import blogImgOne from "./blog/blogImgOne.png"
 import blogImgTwo from "./blog/blogImgTwo.png"
 import blogImgThree from "./blog/blogImgThree.png"
@@ -26,6 +27,7 @@ export {
     workImgSix,
     workImgSeven,
     workImgEight,
+    workImgNine,
     blogImgOne,
     blogImgTwo,
     blogImgThree,

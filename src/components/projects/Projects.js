@@ -8,6 +8,7 @@ import {
   workImgSix,
   workImgSeven,
   workImgEight,
+  workImgNine,
 } from "../../assets";
 import Title from "../home/Title";
 import ProjectsCard from "./ProjectsCard";
@@ -18,11 +19,11 @@ const Projects = () => {
       <Title title="Recent" subTitle="Projects" />
       <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 lgl:gap-10">
         <div className="px-6">
-            <ProjectsCard
-              title="Portfolio Website"
-              category="Front-End Web Development"
-              image={workImgSeven}
-            />
+          <ProjectsCard
+            title="Portfolio Website"
+            category="Front-End Web Development"
+            image={workImgSeven}
+          />
           <a
             href="https://semicolon.nitsri.ac.in/"
             target="_blank"
@@ -100,6 +101,17 @@ const Projects = () => {
               title="Gaming Console"
               category="C Programming"
               image={workImgSix}
+            />
+          </a>
+          <a
+            href="https://bisht-json-server-api.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <ProjectsCard
+              title="JSON Server APIs"
+              category="Back-End Web Development"
+              image={workImgNine}
             />
           </a>
         </div>
