@@ -1,4 +1,4 @@
-import bannerImg from "./amanoffice.jpg";
+import bannerImg from "./amanoffice.png";
 import workImgOne from "./work/workImgOne.png"
 import workImgTwo from "./work/workImgTwo.png"
 import workImgThree from "./work/workImgThree.png"
