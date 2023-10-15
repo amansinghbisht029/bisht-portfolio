@@ -9,6 +9,7 @@ import {
   workImgSeven,
   workImgEight,
   workImgNine,
+  workImgTen,
 } from "../../assets";
 import Title from "../home/Title";
 import ProjectsCard from "./ProjectsCard";
@@ -19,6 +20,17 @@ const Projects = () => {
       <Title title="Recent" subTitle="Projects" />
       <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-6 lgl:gap-10">
         <div className="px-6">
+          <a
+            href="https://spotless-lion-attire.cyclic.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <ProjectsCard
+              title="Ghadee Bazaar"
+              category="Full-Stack Web Development"
+              image={workImgTen}
+            />
+          </a>
           <ProjectsCard
             title="Portfolio Website"
             category="Front-End Web Development"
