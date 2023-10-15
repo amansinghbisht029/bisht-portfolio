@@ -11,10 +11,10 @@ const Education = () => {
         <ResumeTitle title="Experience" icon={<MdWork />} />
         <ResumeCard
           badge=""
-          title="Technical Team Lead"
-          subTitle="Semicolon Coding Club"
-          des="Organized webinars, contests, events, activities, hackathons
-          and developed Semicolon Website."
+          title="Software Developer Intern"
+          subTitle="Business Web Solutions"
+          des="Developed Responsive Web Applications using ReactJS,
+          Redux, HTML, CSS, JavaScript, APIs, Databases."
         />
         <ResumeCard
           badge="Jan 2023 - Feb 2023"
@@ -38,7 +38,7 @@ const Education = () => {
           badge="2020 - Present"
           title="NIT Srinagar"
           subTitle="Srinagar, J&K"
-          des="Pursuing my Bachelors in Electronics and Communication Engineering with a current cgpa of 7.776"
+          des="Pursuing my Bachelors in Electronics and Communication Engineering with a current cgpa of 7.76"
         />
         <ResumeCard
           badge="2019 Passout"
